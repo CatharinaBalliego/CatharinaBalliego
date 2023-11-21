@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning Java and NOSQL
 
--😄 Pronouns: She/her
+- 😄 Pronouns: She/her
   <br>
 <div>
 <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=CatharinaBalliego&show_icons=true&theme=radical">
