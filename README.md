@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: She/her
   <br>
+---
 <div>
 <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=CatharinaBalliego&show_icons=true&theme=radical">
 <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatharinaBalliego&layout=compact&theme=radical">
