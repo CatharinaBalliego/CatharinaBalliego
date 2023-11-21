@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning Java and NOSQL
+  <br>
 -😄 Pronouns: She/her
   <br>
 <div>
