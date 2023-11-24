@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Java and NOSQL
-
 - 😄 Pronouns: She/her
   <br>
 ---
@@ -22,17 +20,27 @@ Here are some ideas to get you started:
 </div>
 	
 ---
-<div style="display: inline_block">
 
-<br> 
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" width="40" />
-	<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="40" />
-	<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="40" />
-	<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="30" width="40" />
-  <img align="center" src="https://www.freeiconspng.com/uploads/sql-server-icon-png-1.png" height="30" width="40" />        
-	<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="30" width="40" />
-	<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="30" width="40" />
-                     
+
+<div style="display: inline_block">
+	
+### I'm 2 years experienced with:
+
+<img align="center" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />      
+<br> <br>
+	
+### And I'm currently learning:
+
+	
+<img align="center" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />        
+<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />        
+               
 </div>
 <br>
 
