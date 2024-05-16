@@ -15,8 +15,8 @@ Here are some ideas to get you started:
   <br>
 ---
 <div>
-<img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=CatharinaBalliego&show_icons=true&theme=radical">
-<img align="center" width="31.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatharinaBalliego&layout=compact&theme=radical">
+
+<img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatharinaBalliego&layout=compact&theme=radical">
 	
 </div>
 	
